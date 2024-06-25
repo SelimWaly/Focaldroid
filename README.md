@@ -58,15 +58,14 @@ A pre-training model is provided here，the Focaldroid, voc 07 +12  _iter_20000
 To contribute to this project, read `CONTRIBUTING.md` before creating a pull request.
 
 
-## License
-
-This program is licensed under the The 996 Prohibited License. For more information regarding the license, see the `LICENSE` file.
-
-
 ## Citation
 
 To cite this framework, see the `CITATION.cff` file.
 
+
+## License
+
+This program is licensed under the The 996 Prohibited License. For more information regarding the license, see the `LICENSE` file.
 
 ---
 
