@@ -35,7 +35,7 @@ The `600×600` image used about 4 seconds.
 Here is the compile command on my Pi3:
 
 ```shell
-g++ -o mobilenetssd main.cpp pkg-config --cflags --libs opencv -D CPU_ONLY -I /home/pi/MobileNet-SSD-Focal-loss/include  -D CPU_ONLY -I/home/pi/MobileNet-SSD-Focal-loss/build/src -D CPU_ONLY  -L /home/pi/MobileNet-SSD-Focal-loss/build/lib -D CPU_ONLY -lcaffe -lglog  -lboost_system -lcblas
+g++ -o focaldroid main.cpp pkg-config --cflags --libs opencv -D CPU_ONLY -I /home/pi/Focaldroid/include  -D CPU_ONLY -I/home/pi/Focaldroid/build/src -D CPU_ONLY  -L /home/pi/Focaldroid/build/lib -D CPU_ONLY -lcaffe -lglog  -lboost_system -lcblas
 ```
 
 #### Steps
