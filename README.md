@@ -30,7 +30,7 @@ Focaldroid integrates these three powerful components within the Caffe framework
 
 This framework has been tested on Pi3 ARM A53 1G RAM.
 
-The 600×600 image use time about 4s
+The `600×600` image used about 4 seconds.
 
 Here is the compile command on my Pi3:
 
