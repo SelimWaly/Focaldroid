@@ -1,0 +1,22 @@
+cff-version: "2.0"
+date-released: 2024-06
+message: "Read README.md, CODE_OF_CONDUCT.md and LICENSE before installing or compiling the program."
+title: "Focaldroid: MobileNet, SSD and Focal Loss Framework"
+url: "https://github.com/SelimWaly/Focaldroid"
+authors: 
+  - family-names: Waly
+    given-names: Selim
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: Waly
+    given-names: Selim
+  booktitle: "Focaldroid"
+  month: 6
+  start: 1
+  end: 1
+  title: "Focaldroid: MobileNet, SSD and Focal Loss Framework"
+  year: 2024
+  publisher: "Selim Waly"
+  url: "https://github.com/SelimWaly/Focaldroid/README.md"
+  address: "Online"
