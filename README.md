@@ -50,7 +50,7 @@ g++ -o focaldroid main.cpp pkg-config --cflags --libs opencv -D CPU_ONLY -I /hom
 
 5. Run the shell script using the command `./jobs/focaldroid.sh`.
 
-A pre-training model is provided here，the Focaldroid, voc 07 +12  _iter_20000, caffemodelat `./jobs/focaldroid.caffemodel`.
+A pre-training model is provided here，the Focaldroid, voc 07 +12  _iter_20000, caffemodel at `./jobs/focaldroid.caffemodel`.
 
 
 ## Contributing
