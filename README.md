@@ -44,9 +44,9 @@ g++ -o focaldroid main.cpp pkg-config --cflags --libs opencv -D CPU_ONLY -I /hom
 
 2. Clone the repository using `git clone https://github.com/SelimWaly/Focaldroid.git`.
 
-3. Run the Makefile using the command `make -j7`.
+3. Open the repository folder using `cd Focaldroid`.
 
-4. Open the repository folder using `cd Focaldroid`.
+4. Run the Makefile using the command `make -j7`.
 
 5. Run the shell script using the command `./jobs/focaldroid.sh`.
 
