@@ -65,7 +65,7 @@ To cite this framework, see the `CITATION.cff` file.
 
 ## License
 
-This program is licensed under the The 996 Prohibited License. For more information regarding the license, see the `LICENSE` file.
+This program is licensed under "The 996 Prohibited License". For more information regarding the license, see the `LICENSE` file.
 
 ---
 
